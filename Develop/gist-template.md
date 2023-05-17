@@ -3,8 +3,8 @@
 Introductory paragraph (replace this with your text)
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+I will be describing "Matching a Hex Value" The code snippet is the following 
+ /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
 
 ## Table of Contents
 
