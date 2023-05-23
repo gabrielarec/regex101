@@ -9,8 +9,8 @@ I will be describing "Matching a Hex Value" The code snippet is the following
 ## Table of Contents
 
 - [Anchors](#anchors)
-The anchors on the code snippet ^#?([a-f0-9]{6}|[a-f0-9]{3})$ are: '^' and '$'. 
-The '^' is called The cadet, and the cadet symbol at the beginning of a regular expression denotes the start of a line or string. It is used as an anchor to specify that the pattern that follows should match at the start of the line or string. 
+The anchors on the code snippet <strong> ^#?([a-f0-9]{6}|[a-f0-9]{3})$ </strong> are: '^' and '$' <br>
+The '^' is called The cadet, and the cadet symbol at the beginning of a regular expression denotes the start of a line or string. It is used as an anchor to specify that the pattern that follows should match at the start of the line or string. <br>
 The '$' is called... you guessed it! Its called The dollar sign, and the dollar sign at the end of the regular expression denotes the end of a line or a string. It is used as an anchor to specify that the pattern that precedes should match at the end of the line or string. 
 
 - [Quantifiers](#quantifiers)
